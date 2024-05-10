@@ -36,7 +36,7 @@
 <h3 align="left">2023-2024</h3>
 <p align="center">
   <ul>
-    <li>Hruday S Tejomaya, President</li>
+    <li>Hruday Tejomaya S, President</li>
     <li>Bimal Ramesh, Vice President</li>
     <li>Gagana Muthyalu, Secretary</li>
     <li>Kavana K, Treasurer</li>
