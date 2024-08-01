@@ -1,4 +1,4 @@
-<h1 align="center">FORCE - Hall of Fame</h1>
+<h1 align="center">FORCE - Wall of Fame</h1>
 <h3 align="center">Office Bearers since 2020</h3>
 
 <h3 align="left">2020-2021</h3>
