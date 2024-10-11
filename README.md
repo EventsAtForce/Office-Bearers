@@ -48,4 +48,32 @@
   </ul>
 </p>
 
+<h3 align="left">2024-2025</h3>
+<p align="center">
+  <ul>
+    <li>S B Varshika, President</li>
+    <li>Jayasheel Vinay J, Vice President</li>
+    <li>Amruth M Acharya, Secretary</li>
+    <li> C Sai Pratesh, Vice Secretary</li>
+    <li>Prachi Jain, Treasurer</li>
+    <li>Rishabh Gopakumar, Co Treasurer</li>
+    <li>Charan, Organising Head</li>
+    <li>Bhuvana B K, Organising Coordinator</li>
+    <li>Saniha Rai T, Organising Coordinator</li>
+    <li>Abhishree S G, Organising Coordinator</li>
+    <li>Shaik Shahid Siddique, Technical Head</li>
+    <li>Chinmay R, Technical Coordinator</li>
+    <li>Shreyas A, Technical Coordinator</li>
+    <li>Rohith P, Technical Coordinator</li>
+    <li>Sreya K R, Cultural Head</li>
+    <li>Mahesh M, Cultural Coordinator</li>
+    <li>Kushala T S, Cultural Coordinator</li>
+    <li>Rhea Sanjay, Documentation Head</li>
+    <li>Janice Fenwick, Documentation Coordinator</li>
+    <li>Vivek M A, Disciplinary Head</li>
+    <li>Pavan Prathyush, Disciplinary Coordinator</li>
+    <li>Abdul Shukoor M, Disciplinary Coordinator</li>
+    <li>Darshan R Jadhav, Disciplinary Coordinator</li>
+  </ul>
+</p>
 
